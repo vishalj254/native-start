@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "534709622674",
+    "firebase_url": "https://nativestart-bbe7d.firebaseio.com",
+    "project_id": "nativestart-bbe7d",
+    "storage_bucket": "nativestart-bbe7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534709622674:android:af4034ecd51a01a703d34b",
+        "android_client_info": {
+          "package_name": "com.nativestart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534709622674-u5amckgql4fp201bna8l0oh6hn51a6t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativestart",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "534709622674-9tpotcf2s9osoid0h0t61m333bp3b79t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHcFmLPL0hBhPzubD8i_4Mc7MEMpLy-Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534709622674-9tpotcf2s9osoid0h0t61m333bp3b79t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
